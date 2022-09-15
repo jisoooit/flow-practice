@@ -1,0 +1,9 @@
+## Fibonacci Sequence
+
+### what is the Fibonacci Sequence?
+
+피보나치 수열(Fibonacci Sequence)은 첫 번째 항과 두 번째 항이 1이며 그 뒤의 항은 바로 앞 두 항의 합인 수열이다. 
+이탈리아의 수학자인 레오나르도 피보나치(Leonardo Fibonacci)의 이름을 땄다.
+피노나치 수열은 {1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, ...} 와 같이 뒤로 갈수록 급격히 증가한다.
+
+
